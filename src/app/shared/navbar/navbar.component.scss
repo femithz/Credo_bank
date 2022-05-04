@@ -1,0 +1,25 @@
+.nav-height {
+    background-color: #fff !important;
+    border-bottom: 1px solid #ddd;
+}
+.navbar-brand {
+    font-size: 30px;
+    font-weight: bolder;
+}
+.signin {
+    margin-right: 30px;
+}
+.link {
+    color: #3f40f0;
+    cursor: pointer;
+}
+li {
+    color: #1e2027;
+}
+
+@media (max-width: 599px) {
+    .navbar-brand {
+     margin-left: 0px !important;
+     font-weight: bolder;
+    }
+  }
